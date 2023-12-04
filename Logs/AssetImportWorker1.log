@@ -1,0 +1,336 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.14f1 (eff2de9070d8) revision 15725278'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'pt' Physical Memory: 16068 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/joaom/OneDrive/Documentos/Google Dino Game pc
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+58600
+Successfully changed project path to: C:/Users/joaom/OneDrive/Documentos/Google Dino Game pc
+C:/Users/joaom/OneDrive/Documentos/Google Dino Game pc
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [7360] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1990861883 [EditorId] 1990861883 [Version] 1048832 [Id] WindowsEditor(7,JM7087-Notbook) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [7360] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 1990861883 [EditorId] 1990861883 [Version] 1048832 [Id] WindowsEditor(7,JM7087-Notbook) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Refreshing native plugins compatible for Editor in 10.04 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.14f1 (eff2de9070d8)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/joaom/OneDrive/Documentos/Google Dino Game pc/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce MX550 (ID=0x1f9f)
+    Vendor:   NVIDIA
+    VRAM:     1920 MB
+    Driver:   31.0.15.4617
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56908
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005947 seconds.
+- Loaded All Assemblies, in  0.320 seconds
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 401 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.708 seconds
+Domain Reload Profiling: 1027ms
+	BeginReloadAssembly (100ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (29ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (51ms)
+	LoadAllAssembliesAndSetupDomain (131ms)
+		LoadAssemblies (99ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (128ms)
+			TypeCache.Refresh (127ms)
+				TypeCache.ScanAssembly (115ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (708ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (652ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (502ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (100ms)
+			ProcessInitializeOnLoadMethodAttributes (42ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+Assembly 'Assets/ExternalDependencyManager/Editor/1.2.169/Google.IOSResolver.dll' will not be loaded due to errors:
+Unable to resolve reference 'UnityEditor.iOS.Extensions.Xcode'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Symbol file LoadedFromMemory is not a mono symbol file
+- Loaded All Assemblies, in  1.064 seconds
+Refreshing native plugins compatible for Editor in 4.72 ms, found 2 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.621 seconds
+Domain Reload Profiling: 1682ms
+	BeginReloadAssembly (127ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (4ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (856ms)
+		LoadAssemblies (819ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (113ms)
+			TypeCache.Refresh (94ms)
+				TypeCache.ScanAssembly (75ms)
+			ScanForSourceGeneratedMonoScriptInfo (16ms)
+			ResolveRequiredComponents (2ms)
+	FinalizeReload (621ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (474ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (25ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (57ms)
+			ProcessInitializeOnLoadAttributes (263ms)
+			ProcessInitializeOnLoadMethodAttributes (120ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (5ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 4.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2593 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 67 unused Assets / (71.7 KB). Loaded Objects now: 3039.
+Memory consumption went from 115.5 MB to 115.4 MB.
+Total: 6.524800 ms (FindLiveObjects: 0.243000 ms CreateObjectMapping: 0.077400 ms MarkObjects: 6.054000 ms  DeleteObjects: 0.148200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/IEvent.cs: f7cce7f4860a47a518cf90c64abd05c7 -> b86a3b66dc54b7623fdf37d341b46744
+  custom:scripting/monoscript/fileName/ScorePageToken.cs: 97173f03f5402e8fd535ed0c6891b163 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/ISavedGameMetadata.cs: 728770efd5b05ff682d05fda45546aee -> 66703bea5c1907b46454684c4fd56cf6
+  custom:scripting/monoscript/fileName/IEventsClient.cs: 0067272868cc259d3fe6a1283ca7833d -> 
+  custom:scripting/monoscript/fileName/PlayGamesAchievement.cs: 530d737b7e14c8d591d01c919e2466ec -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:scripting/monoscript/fileName/Logger.cs: 20d4e87dbd52c9484f869740e229899c -> b1c93a823d8aadf341dec7fbac73bb3e
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/Achievement.cs: 978186372928681247250c5b1f6682b7 -> 
+  custom:scripting/monoscript/fileName/AndroidUtils.cs: f14de4686b589a012e48daae776f3163 -> 
+  custom:scripting/monoscript/fileName/PlayerProfile.cs: 52f1ac5d6c73270449ae0c0605067bc7 -> 
+  custom:scripting/precompiled-assembly-types:Google.Play.Games.Editor: 82270e0cca7a444fdc7a0b7193852b8a -> 494a3dcff9a7b1146e1581d76c213b6c
+  custom:scripting/monoscript/fileName/NearbyConnectionConfiguration.cs: 326413c805ad744958644a24b29818ec -> 41ea00b95e2130f20c563a2ddba8f2ae
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/AdvertisingResult.cs: 69884f0f6782aedcee2af79ea710fa1f -> a05938d2e2e53c6f5f43e4793b6897dd
+  custom:scripting/monoscript/fileName/AndroidClient.cs: cf1f9d6a0f19529142e5991cd3649efc -> 
+  custom:scripting/monoscript/fileName/GPGSUpgrader.cs: 0e924e1ca8e04d585123d9b1b9c2359b -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/AndroidSnapshotMetadata.cs: 02a8c4360571e306e5e45fb8894437b4 -> 
+  custom:scripting/monoscript/fileName/PluginVersion.cs: a43a3090eee8f0a6db908c121f864835 -> 9b2d1525872591876ac3f920b7925e4b
+  custom:scripting/monoscript/fileName/CommonTypes.cs: edae8cd818c8c15537b56f54662aef97 -> f1497885e7b51a3d13040ec23a5c01ed
+  custom:scripting/monoscript/fileName/PlayGamesHelperObject.cs: 40af6cb273ee23946d0a287a84e6ac45 -> cf96231eeb4139ead339622b1eed942b
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/ConnectionResponse.cs: 78e930d5f6ddbcb87c9bb04054feb4f4 -> a4235aac6d86c5566e03bb9d33e67534
+  custom:scripting/monoscript/fileName/PlayGamesLeaderboard.cs: e57e68a96d9bf0c4733affa0a7e2a583 -> 
+  custom:scripting/monoscript/fileName/PlayGamesUserProfile.cs: b6bc85dc41f283b82bbd58567d32987e -> 
+  custom:scripting/monoscript/fileName/GPGSPostBuild.cs: 2b24793b5237f406b18671714e81a38c -> 
+  custom:scripting/monoscript/fileName/DummyNearbyConnectionClient.cs: 19b8cfddc734c61632ac5cfffcaf3fda -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/precompiled-assembly-types:Unity.Services.Core.Device: e4929fb33cf5f7c080e2e61fef03b352 -> 63b48da9c583ff24a0dde69e3097501c
+  custom:scripting/monoscript/fileName/EndpointDetails.cs: 2fe8581a8de1314bb31cd0e3f0db82c7 -> 3351453bb8e893fa14981d5fb55c670e
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/Misc.cs: fa31ca3dc15e4fa432a0e5618694430f -> 600bdc1ab5eaab396f1ed1ea5e17f2bb
+  custom:scripting/precompiled-assembly-types:UnityEngine.Advertisements: 78fdebbc09ab712afd40ea5c2c77a04e -> eddddc804f85d325d3f2cfb2febf94fd
+  custom:scripting/monoscript/fileName/DummyClient.cs: 04e5821b8a6ba8e885f77791d8d2af9b -> 
+  custom:scripting/monoscript/fileName/AndroidTaskUtils.cs: c83b5c78c597c9ce5be057130723296f -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:scripting/monoscript/fileName/AndroidJavaConverter.cs: b8e9bb5a63e8c4bae7dadb272508c9c9 -> 
+  custom:scripting/precompiled-assembly-types:UnityEngine.UI: 7ac2e4ab0e1385bc66dd6dd258282fe3 -> f762135bac905e34e2b540c872c48817
+  custom:scripting/precompiled-assembly-types:Google.Play.Games: f396ab092e3e7d4feff98bcafeedb81a -> 4150cc0ed43a069904f57c74f2066b21
+  custom:scripting/monoscript/fileName/NearbyHelperObject.cs: 872529d557da4f153bf7fb3cde123e4d -> 
+  custom:scripting/monoscript/fileName/AndroidHelperFragment.cs: 4edaedc8e611f3e7ebec226c5c8c57c5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/PlayGamesPlatform.cs: b4ce3ec0a7794e814841053b200e7515 -> 
+  custom:scripting/monoscript/fileName/AndroidBanner.cs: 282e9473b9351b3ad8cc7993d8b7cc25 -> 
+  custom:scripting/monoscript/fileName/LeaderboardScoreData.cs: f59d096850c030884020496f27773daa -> 
+  custom:scripting/monoscript/fileName/AndroidPlatform.cs: ec502a76f2de8159fa482f5b711d49f3 -> 
+  custom:scripting/monoscript/fileName/Player.cs: 2bd5703edbb5ac844718c8192ef92c97 -> 
+  custom:scripting/monoscript/fileName/Event.cs: 497ab23e85fab6c34d84e9904a7d6466 -> ec988225ec78def977ae89149bb54f76
+  custom:scripting/monoscript/fileName/PlatformUtils.cs: 4ef649a4a831698afc8297112125dacc -> 
+  custom:scripting/monoscript/fileName/INearbyConnectionClient.cs: 7d4f3e6798f3e87dd02d58e8c264b9e1 -> bb81d6a8e6369aae9b4f3e4d6bdc7123
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/ConnectionRequest.cs: e7ce8cecf54cbf7fc7a2464df96d98d5 -> 35f546772fcc58c607d178bd2bfc5a7d
+  custom:scripting/monoscript/fileName/AndroidNearbyConnectionClient.cs: 02d91864ac894b082850b88b9197fdf3 -> 
+  custom:scripting/monoscript/fileName/PlayGamesLocalUser.cs: a4d3bf4cdde55e5790eb94529097d5e8 -> 
+  custom:scripting/monoscript/fileName/PlayGamesClientFactory.cs: 9824bf9b8cae92ddd6a5ea2f9e8fac87 -> 
+  custom:scripting/monoscript/fileName/SavedGameMetadataUpdate.cs: 3b852f137ba4677178aff6bddf2edc07 -> 21c9b12b73a2029178bb18b842e38ca5
+  custom:scripting/monoscript/fileName/NearbyConnectionUI.cs: 9d9e0378f5d86be1d9f6cfb8bddd7a7d -> 
+  custom:scripting/monoscript/fileName/NearbyConnectionClientFactory.cs: 3dbb7656de86c2d84f59fc67a8a308ee -> 
+  custom:scripting/monoscript/fileName/AndroidSavedGameClient.cs: ccc4b9e88ed9a12c0060ba07ae7f2503 -> 
+  custom:scripting/monoscript/fileName/GameInfo.cs: 3fc98cad7d219a3d5ba181f6d5fedfbd -> 
+  custom:scripting/monoscript/fileName/IPlayGamesClient.cs: 9dfb94d63c1b3dc426074055863f2ba6 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/AndroidEventsClient.cs: a683f80269eb031b531d6fecc8c8df66 -> 
+  custom:scripting/monoscript/fileName/ISavedGameClient.cs: a56d38bd0266524761809fe983e94fe0 -> 5bdcfe559f3a892a0ef8866c42b84c6c
+  custom:scripting/monoscript/fileName/PlayerStats.cs: 1718029faa191fe7663bc7c355d8ac57 -> 
+  custom:scripting/monoscript/fileName/PlayGamesScore.cs: 1f1259b068cd28f0bad2da11bbdf59ff -> 
+  custom:scripting/precompiled-assembly-types:Google.PackageManagerResolver:  -> 6b6671ae5424178375a7e92e8a99a631
+  custom:scripting/precompiled-assembly-types:Google.JarResolver:  -> e2351e5f543c9dc98d93886456987401
+========================================================================
+Received Import Request.
+  Time since last request: 171981.443695 seconds.
+  path: Assets/ExternalDependencyManager
+  artifactKey: Guid(1823bf77a280153a7ac7dc8f36992da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ExternalDependencyManager using Guid(1823bf77a280153a7ac7dc8f36992da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a937453b3e967ce080e3d2b0e65b26') in 0.003415 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 63.663117 seconds.
+  path: Assets/Sprites/19905 650PX.png
+  artifactKey: Guid(c11855c1584364b45a1b6c2301af84bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/19905 650PX.png using Guid(c11855c1584364b45a1b6c2301af84bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b44223b8a3e8d5729053cd858efe783') in 0.096736 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/btn home.png
+  artifactKey: Guid(de0b7f90f07b05d439603e8ff1abcc09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/btn home.png using Guid(de0b7f90f07b05d439603e8ff1abcc09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcaca6eb8901178969579cdccb5b3a9b') in 0.028524 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Sprites/btn 1.png
+  artifactKey: Guid(212b69c30b9944149ad20a489d6c3378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/btn 1.png using Guid(212b69c30b9944149ad20a489d6c3378) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c9b4667e3f7336476bbe6ba98740cce') in 0.022412 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Sprites/play 2.png
+  artifactKey: Guid(ce90dff2a580d78408b21910abc4f0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/play 2.png using Guid(ce90dff2a580d78408b21910abc4f0d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7917d634bbb5f9a0b9a5472be7c9be3') in 0.063187 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Sprites/btn 3.png
+  artifactKey: Guid(d3e0b844c325ddf499719e32efdac486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/btn 3.png using Guid(d3e0b844c325ddf499719e32efdac486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d0ccaddc1a6623bc2d3d03856dcf295') in 0.028637 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Sprites/btn-google play games.png
+  artifactKey: Guid(9b0ab85741ab49144b09efa65fa4cd10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/btn-google play games.png using Guid(9b0ab85741ab49144b09efa65fa4cd10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cef714b904d1f46a7f2fc68366a8226') in 0.013294 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/BG.png
+  artifactKey: Guid(715343b58e0f79642a174499592da9e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/BG.png using Guid(715343b58e0f79642a174499592da9e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a63b30bb54c51a9b5d3de4b30856b73') in 0.026853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Sprites/seta para D.png
+  artifactKey: Guid(4fe0d807740c1d84e9a79132f9fba877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/seta para D.png using Guid(4fe0d807740c1d84e9a79132f9fba877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f72bf2d1e2421858c031d5b01318e02c') in 0.014971 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/btn3-google play games.png
+  artifactKey: Guid(6f0eb846a3dd0554bb5e28ad6f4daad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/btn3-google play games.png using Guid(6f0eb846a3dd0554bb5e28ad6f4daad5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8285819ec9fbd1dc5f394d7555da41e9') in 0.015853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
